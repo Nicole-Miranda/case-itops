@@ -1,0 +1,2 @@
+# case-itops
+codigo python 
